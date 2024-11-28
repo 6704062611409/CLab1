@@ -2,11 +2,10 @@
 
 int main(){
 	int x = 42;
-	int y = 24;
+	int y = 64;
 	if(x > y){
 		printf(" X > Y ");
-	}
-	if(y > x){
+	}else{
 		printf(" Y > X ");
 	}
 }
